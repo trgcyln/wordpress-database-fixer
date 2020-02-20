@@ -15,6 +15,6 @@ This will only fix your Core tables (users, posts etc..) It will not fix any oth
 3. Not able to create new pages, all pages have the Publish button replaced with Submit for review. 
 No permalink, just “?preview=true”
 
-#### Screenshot
+
 # ![Markdown Here logo](https://raw.githubusercontent.com/trgcyln/wordpress-database-fixer/master/Symptom-2.png)
 # ![Markdown Here logo](https://raw.githubusercontent.com/trgcyln/wordpress-database-fixer/master/Symptom.png)
