@@ -8,7 +8,7 @@ Before running this script, please make a backup first.
 This will only fix your Core tables (users, posts etc..) It will not fix any other non WP Core tables (plugins).
 
 
-#### This script will fix the following database symptoms and errors:
+#### This script will fix the following database problems and errors:
 
 1. PHP errors in your log: “WordPress database error: [Duplicate entry ‘0’ for key ‘PRIMARY’]”
 2. "Incorrect table definition; there can be only one auto column and it must be defined as a key”
