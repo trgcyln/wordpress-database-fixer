@@ -16,4 +16,4 @@ This will only fix your Core tables (users, posts etc..) It will not fix any oth
 No permalink, just “?preview=true”
 
 #### Screenshot
-![alt text](https://raw.githubusercontent.com/trgcyln/Symptom.png/master/Symptom.png)
+!(https://raw.githubusercontent.com/trgcyln/wordpress-database-fixer/master/Symptom.png)
