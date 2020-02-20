@@ -11,7 +11,7 @@ This will only fix your Core tables (users, posts etc..) It will not fix any oth
 #### This script will fix the following database symptoms and errors:
 
 1. PHP errors in your log: “WordPress database error: [Duplicate entry ‘0’ for key ‘PRIMARY’]”
-2. You trying to re-add the primary key with increment resulting in “#1075 – Incorrect table definition; there can be only one auto column and it must be defined as a key”
+2. "Incorrect table definition; there can be only one auto column and it must be defined as a key”
 3. Not able to create new pages, all pages have the Publish button replaced with Submit for review. 
 No permalink, just “?preview=true”
 
