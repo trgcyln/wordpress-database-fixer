@@ -11,5 +11,5 @@ This script will fix the following database symptoms and errors:
 
 PHP errors in your error log: “WordPress database error: [Duplicate entry ‘0’ for key ‘PRIMARY’]”
 You trying to re-add the primary key with increment resulting in “#1075 – Incorrect table definition; there can be only one auto column and it must be defined as a key”
-Not able to create new pages, all pages have the Publish button replaced with Submit for review. (See Dutch screenshot “Inzenden voor beoordeling”)
+Not able to create new pages, all pages have the Publish button replaced with Submit for review. 
 No permalink, just “?preview=true”
