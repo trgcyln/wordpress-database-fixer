@@ -5,7 +5,7 @@ WP Database SQL index, Primary Keys Fixer
 The script will give you DELETE MODIFY/ALTER table queries & remove those corrupted rows in wp db. It will also enable auto increments.
 Before running this script, please make a backup first.
 
-This will only fix your Core tables (users, posts etc..) It will not fix any other non WP Core tables.
+This will only fix your Core tables (users, posts etc..) It will not fix any other non WP Core tables (plugins).
 
 
 #### This script will fix the following database symptoms and errors:
